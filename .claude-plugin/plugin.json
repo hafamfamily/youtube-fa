@@ -1,0 +1,22 @@
+{
+  "name": "youtube-fa",
+  "description": "بستهٔ فارسی یوتیوب و آپارات برای Claude: ۱۵ اسکیل از شناسنامهٔ کانال و صدای گفتاری تا فیلم‌نامه با قلاب امتیازدار فارسی، عنوان و تامبنیل (با ساخت تامبنیل فارسی)، برش تدوین از زیرنویس، چپتر، شورتس، ماندگاری مخاطب، سئو، کامنت، برنامهٔ هفتگی با اکسل شمسی، و انتشار دستی یا خودکار در یوتیوب و آپارات.",
+  "version": "1.0.0",
+  "author": {
+    "name": "hafamfamily",
+    "url": "https://github.com/hafamfamily"
+  },
+  "homepage": "https://github.com/hafamfamily/youtube-fa",
+  "repository": "https://github.com/hafamfamily/youtube-fa",
+  "license": "MIT",
+  "keywords": [
+    "youtube",
+    "shorts",
+    "persian",
+    "farsi",
+    "retention",
+    "thumbnails",
+    "یوتیوب",
+    "فارسی"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "youtube-fa",
+  "description": "بستهٔ فارسی یوتیوب و آپارات برای Claude",
+  "owner": {
+    "name": "hafamfamily",
+    "url": "https://github.com/hafamfamily"
+  },
+  "plugins": [
+    {
+      "name": "youtube-fa",
+      "description": "بستهٔ فارسی یوتیوب و آپارات برای Claude: ۱۵ اسکیل از شناسنامهٔ کانال و صدای گفتاری تا فیلم‌نامه با قلاب امتیازدار فارسی، عنوان و تامبنیل (با ساخت تامبنیل فارسی)، برش تدوین از زیرنویس، چپتر، شورتس، ماندگاری مخاطب، سئو، کامنت، برنامهٔ هفتگی با اکسل شمسی، و انتشار دستی یا خودکار در یوتیوب و آپارات.",
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/hafamfamily/youtube-fa"
+    }
+  ]
+}

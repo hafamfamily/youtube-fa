@@ -1,0 +1,14 @@
+{
+  "handle": "@your.channel",
+  "theme": "paper",
+  "primary": "#1F6F5C",
+  "accent": "#F2B134",
+  "display_font": "",
+  "body_font": "",
+  "digits": "fa",
+  "thumb": {
+    "face": false,
+    "max_words": 4,
+    "signature": ""
+  }
+}
