@@ -1,5 +1,7 @@
 # youtube-fa — بستهٔ فارسی یوتیوب و آپارات برای Claude
 
+> **English:** A Claude plugin (15 skills) for Persian-language YouTube and Aparat channels: channel profile and voice, scripts with scored Persian hooks, titles and Persian thumbnails, edit lists and chapters from Persian subtitles, Shorts, retention analysis, SEO, comment replies, a Jalali-calendar weekly plan, and manual or automatic publishing. Persian adaptation of youtube-agent-skill by Jake Schincariol. MIT licensed.
+
 پانزده اسکیل که یک کانال فارسی را از ایده تا انتشار جلو می‌برند: شناسنامهٔ کانال و صدای گفتاری،
 فیلم‌نامه با قلاب امتیازدار فارسی، عنوان و تامبنیل به‌عنوان یک جفت، ساخت تامبنیل فارسی، فهرست برش
 تدوین از زیرنویس فارسی، چپتر، شورتس، تحلیل ماندگاری مخاطب، توضیحات و تگ، جواب کامنت، برنامهٔ هفتگی با
